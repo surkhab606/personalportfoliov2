@@ -24,6 +24,11 @@ html {
  * Customize the background color to match your design.
  */
 
+h1 {
+  font-family: monospace;
+
+}
+
 ::-moz-selection {
   background: #b3d4fc;
   text-shadow: none;
