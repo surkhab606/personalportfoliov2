@@ -10,6 +10,11 @@ changes, and maybe occasionally add exclusive effects like sound effects, etc. T
 be changed by refreshing the page. Upon refreshing, the next theme will be selected (not random
 to ensure all themes can be visited and the same theme is not repeated in a row).
 
+a. Theme 1: BIONICLE
+   Theme 2: Halo
+   Theme 3: Mountains
+   Theme 4: '80s Chevy'
+
 2. Fun, useful tools and games
 A blog / journal for me to personally use would be an excellent way to demonstrate back-end +
 front-end skills in combination, as well as serve as a useful tool for me to use personally
