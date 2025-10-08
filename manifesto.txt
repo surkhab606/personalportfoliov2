@@ -1,0 +1,18 @@
+
+
+---SITE MANIFESTO---
+
+
+1. Dynamically changing themes
+There will be four (maybe more, maybe less) different stylistic versions of my portfolio, all
+created upon the same base foundation. Changes will only really include font changes, bg-image
+changes, and maybe occasionally add exclusive effects like sound effects, etc. The themes can
+be changed by refreshing the page. Upon refreshing, the next theme will be selected (not random
+to ensure all themes can be visited and the same theme is not repeated in a row).
+
+2. Fun, useful tools and games
+A blog / journal for me to personally use would be an excellent way to demonstrate back-end +
+front-end skills in combination, as well as serve as a useful tool for me to use personally
+in my day-to-day life. Fun mini-games can elevate the experience, maybe some version of snake
+or a small, easy to create-deploy game with save functionality.
+
