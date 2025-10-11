@@ -14,6 +14,9 @@ a. Theme 1: BIONICLE
    Theme 2: Halo
    Theme 3: Mountains
    Theme 4: '80s Chevy'
+   Theme 5: Minecraft?
+   Theme 6: Star Wars
+
 
 2. Fun, useful tools and games
 A blog / journal for me to personally use would be an excellent way to demonstrate back-end +
